@@ -1,0 +1,96 @@
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling:
+ IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_DENORMAL
+
+
+ IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DENORMAL
+
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL
+
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL
+
+ IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DENORMALNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMALNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERO
+ IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG
+ IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+
+ IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMALNote: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL
+
+Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL IEEE_DENORMAL
+
+
+
+ IEEE_DENORMAL
+ IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_INVALID_FLAG IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_DENORMAL IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL
+
+
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ IEEE_DIVIDE_BY_ZERONote: The following floating-point exceptions are signalling:Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAGNote: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_INVALID_FLAG IEEE_DENORMAL IEEE_DIVIDE_BY_ZERO
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling:
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DIVIDE_BY_ZERO IEEE_DENORMAL IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL IEEE_DENORMAL
+ IEEE_UNDERFLOW_FLAG
+ IEEE_DENORMAL
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL IEEE_INVALID_FLAG
+ IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ IEEE_INVALID_FLAG IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
