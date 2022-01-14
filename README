@@ -1,0 +1,69 @@
+ElasT 1.2 (2021)
+------------
+
+ElasT is a pre/post processing package for thermoelasticity calculations,
+currently only interfaced to the VASP code.
+
+It is coded to prepare the structures, inputs and outputs for elastic calculations 
+of crystals either at zero kelvin or at finite temperatures.
+
+The package includes:
+  * ./source    <source code>
+  * ./lib       <blas and lapack libs>
+  * ./examples  <example calculations at 0K, for finite-temperature examples see Li, Y. (2021). 
+    Example Elastic Calculations for ElasT Toolkit. NERC EDS National Geoscience Data Centre. (Dataset). 
+    https://doi.org/10.5285/560124c7-88ad-4e31-a59e-c6cdc539d03e>
+
+Install:
+  * Modify the fortran compiler and library paths in ./source/Makefile
+    If no blas and lapack library available, first go to ./lib and run ./install.sh
+  * Under the source directory, type "make" 
+  * Or, you can directly type: 
+    "gfortran elast.f90 ssnpt.f90 dist.f90 readin.f90 
+    doread.f90 extract.f90 dev.f90 calc.f90 fitting.f90 data.f90  nrtype.f90 
+    dlexlib.f90 -o elast.x -fallow-argument-mismatch -O3 -L/<path to blas>/BLAS-3.6.0 -lblas 
+    -L/<path to lapack>/lapack-3.6.0 -llapack -I/<path to lapack>/lapack-3.6.0/LAPACKE/include/ "
+    On MacOS, type:
+    "gfortran elast.f90 ssnpt.f90 dist.f90 readin.f90 doread.f90 extract.f90 dev.f90 calc.f90 
+     fitting.f90 data.f90  nrtype.f90 dlexlib.f90 -o elast.x -framework Accelerate -fallow-argument-mismatch -O3"
+  * copy the executable ./source/elast.x to your ~/bin
+ 
+Features of package:
+  * Isothermal elastic constants for any lattice system
+  * Thermoelastic constants from molecular dynamics
+  * Thermoelastic constants from constant volume ensembles (NVT, NVE, etc)
+  * Thermoelastic constants from constant pressure ensembles (NPT, NPH, etc)
+  * Elastic stiffnes and elastic compliance constants
+  * Born mechanical stability
+  * Aggregate properties (Voigt, Reuss and Hill averages)
+  * Error estimates
+
+Input and output:
+  Input
+  * Input file: elastic.in
+  * VASP files: INCAR KPOINTS POTCAR POSCAR 
+  Ouput
+  * main results on screen display, stresses also in stress.out
+  * stress.out: this file collects averaged stress tensors. The eiight columns from let to right are the index of 
+    the degree of strain, the index of strain tensor, and the six components of stress tensors in the order of 
+    XX, YY, ZZ, XY, YZ and ZX.
+  * devt.dat: similar to the stress.out file, but the last six components are the standard deviations of the stress tensor.
+
+
+Parameters in input file elastic.in
+  * latt = 7            # lattice type: 1-7: triclinic, monoclinic, orthorhombic,tetragonal,trigonal, hexagonal, cubic
+  * nstrain = 2         # integer: number of strains to be applied;
+  * delta = -0.01 0.01  # array: values of applied strains (nstrain) ;
+  * md = yes            # yes: molecular dynamics calculation at finite-temperature; no: static calculation;
+  * npt = yes           # yes: calculate Cij from constant-pressure MD run; no:calculate Cij from constant-volume MD run; 
+  * polynmord = 2       # integer: the order of polynomial fitting, for npt this will be neglected
+       
+Run: 
+  * prepare elastic.in POSCAR INCAR KPOINTS POTCAR
+  * type elast.x
+  * run vasp in each generated directory 
+  * type elast.x 
+  * maybe more convient to wrap the above in your job script
+  
+ElasT is Copyright (C) Yunguo Li <liyunguo@ustc.edu.cn> and contributors.
+It is licensed under the GPL (version 3 or greater).
