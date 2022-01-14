@@ -1,0 +1,23 @@
+SYSTEM = Si
+KPAR = 1
+NPAR = 2
+LREAL  = F
+GGA = PS
+  ALGO   = Fast        algorithm Normal-Blocked Davidson Very_Fast-RMM-DIIS Fast-Mixture
+  PREC = Accurate
+  EDIFF  = 1E-06       stopping criterion
+  ENCUT  = 400 eV
+
+   NELM = 40
+   NELMIN = 4
+   MAXMIX = 40
+  NSW    = 200           number of ionic relaxation steps
+  IBRION = 2           update method -1-no 0-MD 1-quasi Newton 2-CG 3-damped MD 5-Hessian
+  POTIM  = 0.30       step size | timestep | scale optimization
+  ISIF   = 2           relax 2-only atoms 3-everything 4-atoms,cellshape 5-cellshape
+  EDIFFG = -1E-04  stopping criterion on gradients; if positive on energies
+
+  ISMEAR = -5          smearing 0-Gaussian 1-Methfessel-Paxton -5-tetrahedron-Bl<F6>chl
+  SIGMA  = 0.05
+ LWAVE = .F.
+LCHARG = .F. 
