@@ -1,0 +1,8 @@
+latt =2
+nstrain = 4
+delta = -0.02 -0.01 0.01 0.02
+code = vasp  # vasp gulp qe
+md = no
+npt = no
+polynmord = 2
+
